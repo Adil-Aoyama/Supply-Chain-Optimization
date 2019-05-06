@@ -1,0 +1,9 @@
+
+Gurobi 7.0.2 (win64, .NET) logging started 03/13/17 15:22:06
+
+
+Gurobi 7.0.2 (win64, .NET) logging started 03/13/17 15:22:18
+
+
+Gurobi 7.0.2 (win64, .NET) logging started 04/18/17 10:03:23
+
