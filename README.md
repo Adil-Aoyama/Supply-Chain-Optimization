@@ -1,2 +1,2 @@
 # Graduation_Project
-This project was done as part of my engineering graduation internship at OCP Group, Morocco. It integrates all the elements of
+This project was done as part of my engineering graduation internship at OCP Group in Morocco. It integrates all the major elements of the company's production chain (Mines, Logistics, Products, Production Lines, Capacities, ...) for a better manipulation. This project gave the CAPEX Planing team the possibility for more interaction instead of their first black box system. It also gives an instant calculation for the optimal productions instead of the 10~20 min with Excel-VBA.
