@@ -11,7 +11,7 @@ Please download and open the PPT presentation "Graduation Project Presentation -
 
 // How to run the code?
 
-1- Open CapexLibrary Folder, then open CapexLibrary.sln project.
+1- After downloading the project, open CapexLibrary Folder, then open CapexLibrary.sln project.
 2- Add the following references to the project: Microsoft.Office.Tools.Excel / Microsoft.Office.Core / Gurobi70.NET
 3- Run the project and wait for an Excel to run automatically then, in Excel, open the file Capex_Planning.xlsm.
 4- Go to Sheet "Config", then enter the funtion "=CAPEXLoadConfig(A2:C13)" in the test upload. If the test result is "True", then all the inputs (all the excel sheets) have been successfully loaded to the code and waiting for the process of calculation.
