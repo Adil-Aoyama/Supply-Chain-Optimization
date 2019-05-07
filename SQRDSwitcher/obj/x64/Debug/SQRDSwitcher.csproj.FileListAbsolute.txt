@@ -1,0 +1,13 @@
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\obj\x64\Debug\demo.pdb
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\bin\x64\Debug\demo.dll
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\bin\x64\Debug\demo.pdb
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\bin\x64\Debug\Gurobi70.NET.xml
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\obj\x64\Debug\SQRDSwitcher.csprojResolveAssemblyReference.cache
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\obj\x64\Debug\demo.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\x64\Debug\SQRDSwitcher.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\x64\Debug\Gurobi70.NET.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\x64\Debug\Gurobi70.NET.xml
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\obj\x64\Debug\SQRDSwitcher.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\obj\x64\Debug\SQRDSwitcher.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\x64\Debug\SQRDSwitcher.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\obj\x64\Debug\SQRDSwitcher.dll

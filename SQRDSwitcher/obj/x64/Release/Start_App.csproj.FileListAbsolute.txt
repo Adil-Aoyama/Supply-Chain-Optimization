@@ -1,0 +1,3 @@
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\x64\Release\demo.exe
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\x64\Release\Start_App.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\x64\Release\demo.exe

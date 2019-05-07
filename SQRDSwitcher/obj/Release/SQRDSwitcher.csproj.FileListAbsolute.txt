@@ -1,0 +1,6 @@
+\\FLENO-C013UHH\Partage SQRD\Adil\Projet Switcher\SQRDSwitcher\obj\Release\SQRDSwitcher.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\Release\Gurobi70.NET.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\Release\Gurobi70.NET.xml
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\obj\Release\SQRDSwitcher.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\bin\Release\SQRDSwitcher.exe
+C:\Users\rida.ahroum\Desktop\Projet_Capex\SQRDSwitcher\obj\Release\SQRDSwitcher.exe

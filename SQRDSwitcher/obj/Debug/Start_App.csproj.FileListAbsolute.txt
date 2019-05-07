@@ -1,0 +1,7 @@
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\Debug\demo.exe
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\Debug\demo.pdb
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\Debug\demo.exe
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\Debug\demo.pdb
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\Debug\Start_App.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\Debug\Gurobi70.NET.dll
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\Debug\Gurobi70.NET.xml

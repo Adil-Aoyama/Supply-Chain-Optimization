@@ -1,0 +1,30 @@
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary-AddIn.dna
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\bin\Debug\FirstAddIn.dna
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\bin\Debug\FirstAddIn.xll
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary.dll
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary.pdb
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.csprojResolveAssemblyReference.cache
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.dll
+c:\users\adil\documents\visual studio 2013\Projects\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary-AddIn.dna
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\FirstAddIn.dna
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\FirstAddIn.xll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.csproj.ResolveComReference.cache
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.csproj.ResolveComReference.cache
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.dll
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.pdb
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary-AddIn.dna
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\FirstAddIn.dna
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\FirstAddIn.xll
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary.dll
+C:\Users\Adil\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\CapexLibrary.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\obj\Debug\CapexLibrary.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\SQRDSwitcher.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\Gurobi70.NET.dll
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\SQRDSwitcher.pdb
+C:\Users\rida.ahroum\Desktop\Projet_Capex\CapexLibrary\CapexLibrary\bin\Debug\Gurobi70.NET.xml

@@ -1,0 +1,16 @@
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/SQRDSwitcher.dll
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/SQRDSwitcher.pdb
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/Gurobi70.NET.dll
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/Gurobi70.NET.xml
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.csprojResolveAssemblyReference.cache
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.dll
+C:/Users/rida.ahroum/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.pdb
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/SQRDSwitcher.dll
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/SQRDSwitcher.pdb
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/Gurobi70.NET.xml
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.csprojAssemblyReference.cache
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.csproj.CoreCompileInputs.cache
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.csproj.CopyComplete
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.dll
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/obj/Debug/SQRDSwitcher.pdb
+/Users/adilelhadi/Desktop/Projet_Capex/SQRDSwitcher/bin/Debug/Gurobi70.NET.dll

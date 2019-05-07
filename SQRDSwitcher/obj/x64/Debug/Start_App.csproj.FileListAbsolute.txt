@@ -1,0 +1,8 @@
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\x64\Debug\demo.exe
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\x64\Debug\demo.pdb
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\x64\Debug\demo.exe
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\x64\Debug\demo.pdb
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\obj\x64\Debug\Start_App.csprojResolveAssemblyReference.cache
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\x64\Debug\Gurobi70.NET.dll
+C:\Users\rida.ahroum\Desktop\C# _ Training\Start_App\bin\x64\Debug\Gurobi70.NET.xml
+C:\Users\rida.ahroum\Desktop\C# _ Training\Projet_Switcher\obj\x64\Debug\demo.exe

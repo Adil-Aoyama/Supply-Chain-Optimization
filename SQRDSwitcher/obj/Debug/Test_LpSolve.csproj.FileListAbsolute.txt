@@ -1,0 +1,7 @@
+C:\Users\Adil\Desktop\C# _ Training\Final\lp_solve_5.5_cs.net\bin\Debug\demo.exe
+C:\Users\Adil\Desktop\C# _ Training\Final\lp_solve_5.5_cs.net\bin\Debug\demo.pdb
+C:\Users\Adil\Desktop\C# _ Training\Final\lp_solve_5.5_cs.net\obj\Debug\Test_LpSolve.csprojResolveAssemblyReference.cache
+C:\Users\Adil\Desktop\C# _ Training\Final\lp_solve_5.5_cs.net\obj\Debug\demo.exe
+C:\Users\Adil\Desktop\C# _ Training\Final\lp_solve_5.5_cs.net\obj\Debug\demo.pdb
+C:\Users\Adil\Desktop\C# _ Training\Test_Lpsolve\obj\Debug\demo.exe
+C:\Users\Adil\Desktop\C# _ Training\Test_Lpsolve\obj\Debug\demo.pdb

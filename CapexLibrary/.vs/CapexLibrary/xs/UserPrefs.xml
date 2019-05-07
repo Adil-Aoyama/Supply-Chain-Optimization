@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CapexLibrary/Controler/CapexControler.cs">
+    <Files>
+      <File FileName="CapexLibrary/Controler/CapexControler.cs" Line="95" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CapexLibrary" expanded="True">
+            <Node name="CapexLibrary" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Controler" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="VBIDE" selected="True" />
+            </Node>
+            <Node name="SQRDSwitcher" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Adapters" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
