@@ -6,7 +6,7 @@ This project was done as part of my engineering graduation internship at OCP Gro
 
 // Before you start...
 
-Please download and open the PPT presentation "Graduation Project Presentation - French Version". It contains the necessary information concerning the project. Please read with ppt in "Slide Show" mode. 
+Please download and open the PPT presentation "Graduation Project Presentation - French Version". It contains the necessary information concerning the project. Please read the ppt in "Slide Show" mode. 
 
 
 // How to run the code?
@@ -20,4 +20,4 @@ Please download and open the PPT presentation "Graduation Project Presentation -
 
 //What Happened?
 
-The code, through a "Controller", load all the tables on the different requested sheets of the Excel file. It transform them to C# Objects, and then, according to what is requested from it, set the optimization problem. After setting the optimization problem (which we can read and verify through text files named Facility_LpFile_2020), the code calls the Optimization solver, through the SwitcherLibrary to solve it and give outputs in form of Excel table on the original Excel File.
+The code, through a "Controller", loads all the tables on the different requested sheets of the Excel file. It transforms them to C# Objects, and then, according to what is requested from it, set the optimization problem. After setting the optimization problem (which we can read and verify through text files named Facility_LpFile_2020), the code calls the Optimization solver, through the SwitcherLibrary to solve it and give outputs in form of Excel tables on the original Excel File.
